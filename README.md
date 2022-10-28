@@ -1,4 +1,4 @@
-## Spam Detection
+## SMS Spam Collection Detection
 
 ### Data and Packages/skills used -
 **Data** : [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
