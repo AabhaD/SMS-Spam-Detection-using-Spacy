@@ -1,7 +1,7 @@
 ## Spam Detection
 
 ### Data and Packages/skills used -
-**Data** : This data was provided by Wells Fargo Campus Analytics Challenge conducted by mindsumo
+**Data** : [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 **Programming Language** : Python
 
