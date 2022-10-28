@@ -6,6 +6,7 @@
 **Programming Language** : Python
 
 **Packages** : pandas, numpy, textwrap, matplotlib, sklearn, spaCy, BeautifulSoup, XGBoost
+
 **Data Science skills** - NLP, Sparse Embeddings TF-IDF vectors, Manual Feature Engineering
 
 ### EDA -
